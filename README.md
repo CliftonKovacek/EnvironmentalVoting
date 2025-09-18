@@ -72,29 +72,13 @@ Our smart contract implementation uses Fully Homomorphic Encryption to:
 
 📹 **Watch the Platform in Action**
 
-*[Demo video showcasing the complete voting workflow, from proposal creation to anonymous vote submission and result revelation]*
+*[EnvironmentalVoting.mp4 showcasing the complete voting workflow, from proposal creation to anonymous vote submission and result revelation]*
 
 ## On-Chain Transaction Evidence
 
-### Successful Contract Deployment
 
-![Contract Deployment](https://via.placeholder.com/800x400/2a2a2a/00ff88?text=Contract+Deployment+Transaction)
+EnvironmentalVoting.png
 
-**Transaction Hash**: `0x5c635bb8efc28ef59e707f1954ca5267591dd8e6ef452aa4f0fa8b69211cb4bb`
-
-**Block**: 9306287
-
-**Status**: ✅ Success
-
-### Sample Voting Transactions
-
-![Voting Transaction](https://via.placeholder.com/800x300/2a2a2a/0088ff?text=Anonymous+Vote+Submission)
-
-*Example of encrypted vote submission maintaining complete voter anonymity*
-
-![Results Revelation](https://via.placeholder.com/800x300/2a2a2a/ff3366?text=Results+Revelation+Transaction)
-
-*Results revelation while preserving individual vote privacy*
 
 ## Technology Stack
 
